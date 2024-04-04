@@ -31,3 +31,53 @@
 <h4>Etiqueta H4</h4>
 
 <h5>Etiqueta H5</h5>
+<!-- Etiquetas de listas -->
+        <ul> <!-- Lista no ordenada -->
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+
+        <ol> <!-- Lista ordenada -->
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ol>
+
+        <!-- Etiquetas de sección -->
+
+        <section class="titulo bonito feo claseejemplo" id="abc1">
+            <h2>Seccion1</h2>
+        </section>
+
+        <section class="titulo bonito feo claseejemplo" id="abc2">
+            <h2>Seccion2</h2>
+        </section>
+
+        <div>
+            Mas contenido
+        </div>
+
+        <aside>
+            Va contenido no relacionado
+        </aside>
+
+        <header>
+            Se usa para crear o situar menús
+        </header>
+
+        <footer>
+            Se usa para agrupar el contenido del pie de página
+        </footer>
+
+        <address>
+            Se usa para colocar contenido relacionado a direcciones
+        </address>
+
+        <nav>
+            Se usa para crear menús.
+        </nav>
+
+
+    </body>
+</html>
