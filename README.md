@@ -31,6 +31,7 @@
 <h4>Etiqueta H4</h4>
 
 <h5>Etiqueta H5</h5>
+<h6>Etiqueta H6</h6>
 <!-- Etiquetas de listas -->
         <ul> <!-- Lista no ordenada -->
             <li>Item 1</li>
